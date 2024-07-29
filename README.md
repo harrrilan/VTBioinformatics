@@ -1,4 +1,5 @@
-# VTBioinformatics
+# Classification with Machine Learning and Deep Learning Models for Bioinformatics
+
 ### Machine Learning / Deep Learning Models
 • Artificial Neural Network
 • Convolution Neural Network
